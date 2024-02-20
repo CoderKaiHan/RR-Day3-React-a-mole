@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.App-button{
+  display: block;
+  margin: auto;
+  margin-top: 20vh;
+}
